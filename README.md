@@ -8,6 +8,7 @@ https://lu.ma/a5izagh4
 >​不是为了赢一场比赛，而是为了走得更远
 
 Aptos Ctrl+MOVE Hackathon 正在全球火热进行中，奖池高达 💰 $100,000 ，吸引了数百位开发者前来构建下一代 Move 生态项目。
+>报名链接：https://aptosfoundation.org/events/ctrl-move（tip：截止提交日期10.2前最终项目要提交到这边）
 
 而由 alcove x Movemaker x Aptos 联合发起的【Aptos EVERMOVE 昆山】是在为接下来 Aptos Ctrl+MOVE Hackathon 赛道，代表整个华语社区一起，认真地准备和奔跑。
 
