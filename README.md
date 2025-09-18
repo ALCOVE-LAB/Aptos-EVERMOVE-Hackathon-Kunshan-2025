@@ -52,7 +52,7 @@ Aptos Ctrl+MOVE Hackathon 报名链接：https://aptosfoundation.org/events/ctrl
 | 报名时间                 | 即日起 – 9 月 9 日    |
 | 项目开发 & 提交          | 即日起 – 9 月 21 日    |
 | ​Open Day  | 9 月 15 日 |
-| Demo Day（线上展示+答辩+评审） | 9 月 20 日         |
+| Demo Day（展示+答辩+评审） | 9 月 20 日         |
 | After Party (自由参与)                 | 9 月 21 日          |
 
 
