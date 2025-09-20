@@ -1,5 +1,5 @@
 
-## 项目名称：Meridian Pay(Aptos Pay)
+# 项目名称：Meridian Pay(Aptos Pay)
 
 ## 项目描述
 
@@ -153,6 +153,15 @@ Meridian Pay 深度利用了 Aptos 区块链及其 Move 语言的独特优势，
 * **集成 DEX 聚合器**：接入 DEX 聚合器以获得更优的兑换价格和更广的代币支持。
 * **开发者 SDK**: 发布专门的 JavaScript/TypeScript SDK，让其他开发者能用更少的代码、更方便地集成 Meridian Pay 协议。
 
+## 项目截图
+
+![示例图片](img/image1.jpg)
+
+![示例图片](img/image2.jpg)
+
+![示例图片](img/image3.jpg)
+
+![示例图片](img/image4.jpg)
 参考
 
 * <https://github.com/qiaopengjun5162/meridian-pay>
