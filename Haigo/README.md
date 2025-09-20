@@ -35,8 +35,14 @@ HaiGo 海行聚焦跨境电商在海外仓履约中的信任缺口，围绕“�
 Alexis ：https://github.com/blockalexis
 大叶： https://github.com/qiaodaye629-tech 
 lanyinzly： https://github.com/lanyinzly
+三支: https://github.com/sanzhichazi
 
 ## 演示视频 / 截图（可选）
+- 截图：
+  - ![首页](./home.png)
+  - ![注册流程](./register.png)
+  - ![仓库看板](./warehouse.png)
+  - ![商家工作台](./seller.png)
 - ppt/包含视频 https://docs.google.com/presentation/d/1HiV6dht88IHgzLladCLDFPlmBUrEZyEZOk7y9xb2aeE/edit?usp=sharing
 
 ## 可运行性与功能说明
@@ -44,6 +50,6 @@ lanyinzly： https://github.com/lanyinzly
 - BFF 与前端在本地开发模式可完整跑通注册、订单创建与事件监听流程；媒体验证服务在 PoC 阶段依赖本地磁盘或对象存储。
 - 核心功能（注册、订单、质押、时间线）均已具备最小可用实现，后续迭代将继续完善保险与评分模块。
 
-## 提交方式提醒
+## 仓库
 - 仓库： https://github.com/cyl19970726/haigo
 - 请在 GitHub README 中链接本文件，并附上演示资源与部署地址。
