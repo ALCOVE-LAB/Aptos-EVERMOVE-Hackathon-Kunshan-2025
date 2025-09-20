@@ -1,5 +1,5 @@
 
-## 项目名称：Meridian Pay
+## 项目名称：Meridian Pay(Aptos Pay)
 
 ## 项目描述
 
